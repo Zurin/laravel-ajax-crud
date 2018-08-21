@@ -7,3 +7,5 @@ Simple CRUD with laravel + JQuery Ajax
 ## Feature
 - Serverside Datatables
 - Export PDF with DOMpdf
+
+### [DEMO](https://rackspiradev.com/experiments/laravel-ajax-crud/)
